@@ -2,6 +2,14 @@
   display: none;
 }
 
+.slide-toggle {
+  color: red;
+}
+
+.slide-toggle:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
 
 img {
   width: 300px;

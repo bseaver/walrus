@@ -1,12 +1,12 @@
-# _Calculator_
+# _Walrus_
 
-#### _A Calculator on a webpage, 1/9/2017_
+#### _Showing and Hiding with jQuery, 1/10/2017_
 
-#### By _**Benjamin S. and Jake C.**_
+#### By _**Benjamin S. and Zach S.**_
 
 ## Description
 
-_Simple calculator using JavaScript to perform back end functions.  Provide basic prompts for functionality_
+_Exploring use of jQuery to toggle display states_
 
 ## Setup/Installation Requirements
 
@@ -27,7 +27,7 @@ _No support at this time_
 
 * _HTML_
 * _CSS_
-* _Bootstrap_
+* _jQuery_
 * _JavaScript_
 * _git_
 
@@ -35,4 +35,4 @@ _No support at this time_
 
 * MIT
 
-Copyright (c) 2017 **_Benjamin and Jake_**
+Copyright (c) 2017 **_Benjamin and Zach_**
