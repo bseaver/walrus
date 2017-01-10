@@ -10,4 +10,12 @@ $(function() {
   $(".slide-toggle").click( function() {
     $(".slide").slideToggle();
   });
+
+  $("#dark-button").click(function() {
+    $("body").addClass("dark");
+  });
+
+  $("#light-button").click(function() {
+    $("body").removeClass();
+  });
 });
